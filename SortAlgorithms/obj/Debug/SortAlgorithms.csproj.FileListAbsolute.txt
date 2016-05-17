@@ -1,0 +1,9 @@
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\bin\Debug\SortAlgorithms.exe.config
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\bin\Debug\SortAlgorithms.exe
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\bin\Debug\SortAlgorithms.pdb
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\obj\Debug\SortAlgorithms.csprojResolveAssemblyReference.cache
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\obj\Debug\SortAlgorithms.Sorts.resources
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\obj\Debug\SortAlgorithms.Properties.Resources.resources
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.GenerateResource.Cache
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\obj\Debug\SortAlgorithms.exe
+E:\Skróty\programowanie bierzące\1a repozytorium\Sortowanie\SortAlgorithms\obj\Debug\SortAlgorithms.pdb
